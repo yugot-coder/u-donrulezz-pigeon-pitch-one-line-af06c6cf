@@ -1,0 +1,8 @@
+Competition: Pigeon Pitch, One Line (u-donrulezz-pigeon-pitch-one-line-af06c6cf)
+Brief: Write one line, 200 characters at most, in English: the elevator
+pitch a city pigeon gives investors for its startup. A judge model compares
+two pitches at a time and picks the funnier one, weighing first on-subject,
+then funniness (a real joke that lands, not a mild pun or straight
+description), then originality, the pigeon's own voice and city life, then
+how tightly the line is written. Pool $2 escrowed, top 10 (1st $0.63).
+Entries close 2026-11-26T20:25Z.
